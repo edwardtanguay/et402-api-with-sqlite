@@ -1,11 +1,5 @@
+import * as sqlitetools from './sqlitetools.js';
 
 export const getAllEmployees = () => {
-	return [
-		{
-			firstName: '111'
-		},
-		{
-			firstName: '222'
-		}
-	]
+	return sqlitetools.getRecordsWithSql('SELECT * FROM Employees');
 }
