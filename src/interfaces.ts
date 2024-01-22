@@ -54,3 +54,17 @@ export const blankNewFlashcard: INewFlashcard = {
 	front: '',
 	back: ''
 }
+
+export interface IEmployee {
+	id: number,
+	firstName: string,
+	lastName: string,
+	title: string
+}
+
+export interface IRawEmployee {
+	EmployeeID: number,
+	FirstName: string,
+	LastName: string,
+	Title: string
+}
