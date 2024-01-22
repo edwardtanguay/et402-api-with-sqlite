@@ -193,3 +193,9 @@
 {"contentLength":"81532","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"12.367","status":"200","timestamp":"2024-01-22T12:10:14.775Z","url":"/flashcards/info/logs"}
 {"contentLength":"81976","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"9.547","status":"200","timestamp":"2024-01-22T12:10:32.743Z","url":"/flashcards/info/logs"}
 {"contentLength":"41","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"1.961","status":"200","timestamp":"2024-01-22T12:22:38.624Z","url":"/employees"}
+{"contentLength":"665","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"0.519","status":"200","timestamp":"2024-01-22T12:24:09.828Z","url":"/flashcards"}
+{"contentLength":"97","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"1.207","status":"200","timestamp":"2024-01-22T12:24:39.147Z","url":"/flashcards/82Js23"}
+{"contentLength":"62","level":"http","message":"incoming-request","method":"POST","remoteAddr":"::ffff:127.0.0.1","responseTime":"3.466","status":"201","timestamp":"2024-01-22T12:24:54.378Z","url":"/flashcards"}
+{"contentLength":"728","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"4.452","status":"200","timestamp":"2024-01-22T12:25:03.643Z","url":"/flashcards"}
+{"contentLength":"62","level":"http","message":"incoming-request","method":"DELETE","remoteAddr":"::ffff:127.0.0.1","responseTime":"3.585","status":"200","timestamp":"2024-01-22T12:26:23.739Z","url":"/flashcards/PbUKFG"}
+{"contentLength":"665","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"2.378","status":"200","timestamp":"2024-01-22T12:26:29.212Z","url":"/flashcards"}

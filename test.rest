@@ -1,4 +1,7 @@
 @url = http://localhost:4206
+ 
+### FETCH ALL EMPLOYEES
+GET {{url}}/employees
 	
 ### FETCH ALL FLASHCARDS
 GET {{url}}/flashcards
@@ -36,4 +39,4 @@ content-type: application/json
 }
 
 ### DELETE FLASHCARD
-DELETE {{url}}/flashcards/z0fry4
+DELETE {{url}}/flashcards/PbUKFG
