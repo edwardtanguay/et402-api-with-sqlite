@@ -192,3 +192,4 @@
 {"contentLength":"81088","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"10.705","status":"200","timestamp":"2024-01-22T12:09:54.809Z","url":"/flashcards/info/logs"}
 {"contentLength":"81532","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"12.367","status":"200","timestamp":"2024-01-22T12:10:14.775Z","url":"/flashcards/info/logs"}
 {"contentLength":"81976","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"9.547","status":"200","timestamp":"2024-01-22T12:10:32.743Z","url":"/flashcards/info/logs"}
+{"contentLength":"41","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"1.961","status":"200","timestamp":"2024-01-22T12:22:38.624Z","url":"/employees"}
