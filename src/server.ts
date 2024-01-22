@@ -4,12 +4,16 @@ import { flashcardRouter } from './routers/flashcardRouter.js';
 import cors from 'cors';
 import { maintenanceMode } from './middleware/maintenanceMode.js';
 import { logger, morganRouteLogger } from './logger.js';
+import { employeeRouter } from './routers/employeeRouter.js';
 
 export const app = express();
 app.use(express.json());
 app.use(cors());
 app.use(maintenanceMode);
 app.use(morganRouteLogger);
+
+app.use('/flashcards', flashcardRouter);
+app.use('/employees', employeeRouter);
 
 app.get('/', (req, res) => {
 	res.send(`
@@ -39,8 +43,6 @@ app.get('/', (req, res) => {
 	`)
 
 });
-
-app.use('/flashcards', flashcardRouter);
 
 // global error catching
 app.use((err: Error, req: express.Request, res: express.Response, next: NextFunction) => {

@@ -185,3 +185,10 @@
 {"contentLength":"803","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"3.173","status":"200","timestamp":"2024-01-21T18:24:02.132Z","url":"/"}
 {"contentLength":"78473","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"8.883","status":"200","timestamp":"2024-01-21T18:24:02.150Z","url":"/flashcards/info/logs"}
 {"contentLength":"665","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"0.445","status":"200","timestamp":"2024-01-21T18:24:02.154Z","url":"/flashcards"}
+{"contentLength":"803","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"1.972","status":"200","timestamp":"2024-01-22T12:09:20.660Z","url":"/"}
+{"contentLength":"665","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"0.605","status":"200","timestamp":"2024-01-22T12:09:24.961Z","url":"/flashcards"}
+{"contentLength":"97","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"0.612","status":"200","timestamp":"2024-01-22T12:09:44.295Z","url":"/flashcards/82Js23"}
+{"contentLength":"80645","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"8.776","status":"200","timestamp":"2024-01-22T12:09:47.757Z","url":"/flashcards/info/logs"}
+{"contentLength":"81088","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"10.705","status":"200","timestamp":"2024-01-22T12:09:54.809Z","url":"/flashcards/info/logs"}
+{"contentLength":"81532","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"12.367","status":"200","timestamp":"2024-01-22T12:10:14.775Z","url":"/flashcards/info/logs"}
+{"contentLength":"81976","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"9.547","status":"200","timestamp":"2024-01-22T12:10:32.743Z","url":"/flashcards/info/logs"}
