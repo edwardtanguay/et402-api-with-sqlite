@@ -3,7 +3,7 @@ import * as employeeHandlers from '../handlers/employeeHandlers.js';
 
 export const employeeRouter = Router();
 
-employeeRouter.get('/', (_req, res) => {
-	const employees = employeeHandlers.getAllEmployees();
+employeeRouter.get('/', async (_req, res) => {
+	const employees = await employeeHandlers.getAllEmployees();
 	res.json(employees);
 });
