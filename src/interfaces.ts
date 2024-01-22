@@ -62,7 +62,7 @@ export interface IEmployee {
 	title: string
 }
 
-export interface IRawEmployee {
+export interface INorthwindEmployee {
 	EmployeeID: number,
 	FirstName: string,
 	LastName: string,

@@ -219,3 +219,5 @@
 {"contentLength":"1093","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"5.873","status":"200","timestamp":"2024-01-22T12:56:00.415Z","url":"/employees"}
 {"contentLength":"633","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"4.526","status":"200","timestamp":"2024-01-22T12:56:07.559Z","url":"/employees"}
 {"contentLength":"385768","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"11.444","status":"200","timestamp":"2024-01-22T12:57:19.792Z","url":"/employees"}
+{"contentLength":"736","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"5.092","status":"200","timestamp":"2024-01-22T13:05:50.711Z","url":"/employees"}
+{"contentLength":"736","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"4.183","status":"200","timestamp":"2024-01-22T13:11:00.469Z","url":"/employees"}
